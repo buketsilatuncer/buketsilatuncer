@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buketsilatuncer
 - 👀 I’m interested in data analysis using SQL, Python and R
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning Databricks
 - 📫 How to reach me: via LinkedIn: https://www.linkedin.com/in/buket-s%C4%B1la-t-065b85149/
 - 😄 Pronouns: she/her
 
